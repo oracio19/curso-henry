@@ -1,2 +1,1 @@
-# curso-henry
-este es un repositorio de curso de henry
+este es un proyecto de prueba de como crear un repositorio y clonarlo desde mi github a mi computadora
